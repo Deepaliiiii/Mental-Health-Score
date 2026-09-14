@@ -1,4 +1,4 @@
 ﻿# Mental-Health-Score
 
 https://mental-health-score-zm46.onrender.com
-check out put on the above link
+check output on the above link
